@@ -1,0 +1,27 @@
+LINK: 
+- https://gsajournals.figshare.com/articles/dataset/Supplemental_Material_for_Christensen_et_al_2021/13542158
+
+Dataset posted on 2021-01-19, 16:42 authored by Kris A. Christensen, Jérémy Le Luyer, Michelle T. T. Chan, Eric B. Rondeau, Ben F. Koop, Louis Bernatchez, Robert H. Devlin
+Supplemental Material from Christensen et al., 2021
+
+Figure S1. Enriched GO terms identified from genes with differential gene transcription between transgenic and non-transgenic coho salmon in a tank environment.
+
+Figure S2. Enriched GO terms identified from genes with differential gene transcription between stream and tank environments.
+
+Figure S3. Gene expression values plotted against promoter methylation data.
+
+Figure S4. Gene expression values plotted against gene region methylation data.
+
+Figure S5. Transcription factors with significant GxE interaction in the promoter region.
+
+Figure S6. Transcription factors with significant GxE interaction in the gene region.
+
+File S1. Full materials and methods section.
+
+File S2. Python and R scripts used in the analyses (compressed).
+
+File S3. Gene expression data (spreadsheet).
+
+File S4. Methylation data (spreadsheet).
+
+File S5. Methylation count data (compressed).
