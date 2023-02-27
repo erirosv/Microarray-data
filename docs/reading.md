@@ -11,3 +11,5 @@
     - https://www.naukri.com/learning/articles/feature-selection-techniques-python-code/
 - Feature Selection For Machine Learning in Python
     - https://machinelearningmastery.com/feature-selection-machine-learning-python/
+- 1.13. Feature selection
+    - https://scikit-learn.org/stable/modules/feature_selection.html
