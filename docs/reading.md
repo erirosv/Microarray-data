@@ -13,3 +13,7 @@
     - https://machinelearningmastery.com/feature-selection-machine-learning-python/
 - 1.13. Feature selection
     - https://scikit-learn.org/stable/modules/feature_selection.html
+- How to Choose a Feature Selection Method For Machine Learning
+    - https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/#:~:text=Feature%20selection%20is%20the%20process,the%20performance%20of%20the%20model.
+
+    
