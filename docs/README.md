@@ -1,5 +1,5 @@
 # Documentation
-[Back](../microarray-data/)
+[Back](../)
 
 ## Table of content
 - [Feature Selection](/docs/fs-links.md)
