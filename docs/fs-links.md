@@ -20,3 +20,6 @@ duxuhao/Feature-Selection
 
 kivancguckiran/microarray-classification
 - https://github.com/kivancguckiran/microarray-classification
+
+tlatkowski/deep-learning-gene-expression (have some good statistics as well)
+- https://github.com/tlatkowski/deep-learning-gene-expression
