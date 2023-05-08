@@ -1,3 +1,7 @@
+"""
+NOTE: This code does not work on mac os, hence they do not support NVIDIA
+"""
+
 import numpy as np
 import pandas as pd
 import cupy as cp
