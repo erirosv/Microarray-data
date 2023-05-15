@@ -10,7 +10,7 @@ zerenyenice
 
 ## CFS - code 
 - https://johfischer.com/2021/08/06/correlation-based-feature-selection-in-python-from-scratch/
-- ![
+- [
 Correlation-based-Feature-Selection](
 Correlation-based-Feature-Selection)
 
