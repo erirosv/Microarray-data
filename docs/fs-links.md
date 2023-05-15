@@ -8,6 +8,12 @@ akmand/spFSR:
 zerenyenice
 - https://github.com/zerenyenice/spsa-fsr
 
+## CFS - code 
+- https://johfischer.com/2021/08/06/correlation-based-feature-selection-in-python-from-scratch/
+- ![
+Correlation-based-Feature-Selection](
+Correlation-based-Feature-Selection)
+
 ## Feature Selection
 NVIDIA-Merlin/NVTabular:
 - https://github.com/NVIDIA-Merlin/NVTabular
